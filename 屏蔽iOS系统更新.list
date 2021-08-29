@@ -1,4 +1,4 @@
-# Block iOS Update
+# 屏蔽iOS系统更新
 DOMAIN,mesu.apple.com,REJECT
 DOMAIN,gdmf.apple.com,REJECT
 DOMAIN,updates-http.cdn-apple.com,REJECT
