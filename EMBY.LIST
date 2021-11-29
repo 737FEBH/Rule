@@ -11,7 +11,7 @@ DOMAIN,ru.odysseyplus.site
 DOMAIN,sp.odysseyplus.site
 
 #TAG服EMBY
-DOMAIN,emby.riches.cloud
+IP-CIDR,198.204.247.154/32
 
 #熊猫EMBY
 #Cloudflare
