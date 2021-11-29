@@ -32,18 +32,18 @@ DOMAIN,play.charontv.com
 
 #卷毛鼠EMBY
 #CF线路
-DOMAIN,cf1.jmsooo.com:443
+DOMAIN,cf1.jmsooo.com
 #US线路
-DOMAIN,us.jmsooo.com:8096
+DOMAIN,us.jmsooo.com
 #US2线路
-DOMAIN,us2.jmsooo.com:8096
+DOMAIN,us2.jmsooo.com
 #US3线路
-DOMAIN,us3.jmsooo.com:8096
+DOMAIN,us3.jmsooo.com
 #SG线路
-DOMAIN,SG.jmsooo.com:8096
+DOMAIN,SG.jmsooo.com
 #RU2线路
-DOMAIN,ru2.jmsooo.com:8096
+DOMAIN,ru2.jmsooo.com
 
 #Misty Emby
 #东京中转隧道
-DOMAIN,emby-jp.ssky.me:443
+DOMAIN,emby-jp.ssky.me
