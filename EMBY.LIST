@@ -1,1 +1,49 @@
 #奥德赛EMBY
+#Cloudflare
+DOMAIN,cf.odysseyplus.site
+#新加坡1
+DOMAIN,sg.odysseyplus.site
+#新加坡2
+DOMAIN,sg2.odysseyplus.site
+#俄罗斯
+DOMAIN,ru.odysseyplus.site
+#CF Spectrum
+DOMAIN,sp.odysseyplus.site
+
+#TAG服EMBY
+DOMAIN,emby.riches.cloud
+
+#熊猫EMBY
+#Cloudflare
+DOMAIN,embyclub.com
+#Azure Hk
+DOMAIN,az-hk.embyclub.com
+#Azure Singapore
+DOMAIN,azsgp.embyclub.com
+
+#Exflux服EMBY
+DOMAIN,line.emby.men
+
+#Pornemby
+DOMAIN,pornemby.club
+
+#卡戎EMBY
+DOMAIN,play.charontv.com
+
+#卷毛鼠EMBY
+#CF线路
+DOMAIN,cf1.jmsooo.com:443
+#US线路
+DOMAIN,us.jmsooo.com:8096
+#US2线路
+DOMAIN,us2.jmsooo.com:8096
+#US3线路
+DOMAIN,us3.jmsooo.com:8096
+#SG线路
+DOMAIN,SG.jmsooo.com:8096
+#RU2线路
+DOMAIN,ru2.jmsooo.com:8096
+
+#Misty Emby
+#东京中转隧道
+DOMAIN,emby-jp.ssky.me:443
