@@ -14,8 +14,6 @@ IP-CIDR,198.204.247.154/32
 #Cloudflare
 DOMAIN,embyclub.com
 
-#Exflux服EMBY
-DOMAIN,line.emby.men
 
 #Pornemby
 DOMAIN,pornemby.club
