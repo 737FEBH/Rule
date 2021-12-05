@@ -1,10 +1,7 @@
 #奥德赛EMBY
 #Cloudflare
 DOMAIN,cf.odysseyplus.site
-#新加坡1
-DOMAIN,sg.odysseyplus.site
-#新加坡2
-DOMAIN,sg2.odysseyplus.site
+
 #俄罗斯
 DOMAIN,ru.odysseyplus.site
 #CF Spectrum
@@ -16,10 +13,6 @@ IP-CIDR,198.204.247.154/32
 #熊猫EMBY
 #Cloudflare
 DOMAIN,embyclub.com
-#Azure Hk
-DOMAIN,az-hk.embyclub.com
-#Azure Singapore
-DOMAIN,azsgp.embyclub.com
 
 #Exflux服EMBY
 DOMAIN,line.emby.men
@@ -39,11 +32,10 @@ DOMAIN,us.jmsooo.com
 DOMAIN,us2.jmsooo.com
 #US3线路
 DOMAIN,us3.jmsooo.com
-#SG线路
-DOMAIN,SG.jmsooo.com
+
 #RU2线路
 DOMAIN,ru2.jmsooo.com
 
 #Misty Emby
-#东京中转隧道
+#德国主线路
 DOMAIN,aaa.ax
