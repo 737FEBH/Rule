@@ -1,4 +1,6 @@
+[MITM]
 hostname = mp.weixin.qq.com
+
 
 #去微信公众号广告 
 ^https?:\/\/mp\.weixin\.qq\.com\/mp\/getappmsgad url script-response-body https://raw.githubusercontent.com/737FEBH/Rule/main/%E8%84%9A%E6%9C%AC/%E5%8E%BB%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B9%BF%E5%91%8A.js
