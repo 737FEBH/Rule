@@ -1,39 +1,25 @@
-#奥德赛EMBY
-#Cloudflare
-DOMAIN,cf.odysseyplus.site
 
-#俄罗斯
-DOMAIN,ru.odysseyplus.site
-#CF Spectrum
-DOMAIN,sp.odysseyplus.site
 
-#TAG服EMBY
+DOMAIN-KEYWORD,odysseyplus
+
+
+
 IP-CIDR,198.204.247.154/32
 
-#熊猫EMBY
-#Cloudflare
+
+
 DOMAIN,embyclub.com
 
 
-#Pornemby
+
 DOMAIN,pornemby.club
 
-#卡戎EMBY
+
 DOMAIN,play.charontv.com
 
-#卷毛鼠EMBY
-#CF线路
-DOMAIN,cf1.jmsooo.com
-#US线路
-DOMAIN,us.jmsooo.com
-#US2线路
-DOMAIN,us2.jmsooo.com
-#US3线路
-DOMAIN,us3.jmsooo.com
 
-#RU2线路
-DOMAIN,ru2.jmsooo.com
 
-#Misty Emby
-#德国主线路
+DOMAIN-KEYWORD,jmsooo
+
+
 DOMAIN,aaa.ax
