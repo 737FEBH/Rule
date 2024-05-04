@@ -3,3 +3,27 @@
 #XLM机场
 #DOMAIN-SUFFIX,ixlmo.com
 DOMAIN-KEYWORD,ixlmo
+
+
+
+
+
+
+
+
+
+
+
+
+
+#DOMAIN    [完整域名匹配]
+#DOMAIN-SUFFIX    【域名后缀匹配】
+#DOMAIN-KEYWORD    【域名关键字匹配】
+#一般以上3个较为常用
+
+#从上到下，依次为 DOMAIN（完整域名匹配，举例limbopro.com）
+#DOMAIN-SUFFIX（域名后缀匹配）
+#DOMAIN-KEYWORD（域名关键字匹配，举例limboppro）
+#USER-AGENT（浏览器用户代理匹配，举例*abc?）
+#IP-CIDR（无类别域间路由例如192.168.xx）
+#GEOIP（GeoIP数据库IP匹配，参数填US，则为美国 ip 数据库匹配，所有美国IP匹配该规则则执行）；
