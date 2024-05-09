@@ -17,9 +17,9 @@ DOMAIN,cf.odysseyplus.site
 
 
 
-#DOMAIN    [完整域名匹配]
-#DOMAIN-SUFFIX    【域名后缀匹配】
-#DOMAIN-KEYWORD    【域名关键字匹配】
+#DOMAIN,   [完整域名匹配]
+#DOMAIN-SUFFIX,    【域名后缀匹配】
+#DOMAIN-KEYWORD,    【域名关键字匹配】
 #一般以上3个较为常用
 
 #从上到下，依次为 DOMAIN（完整域名匹配，举例limbopro.com）
